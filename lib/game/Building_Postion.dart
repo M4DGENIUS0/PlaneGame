@@ -1,0 +1,1 @@
+enum Buildings { up, down }
